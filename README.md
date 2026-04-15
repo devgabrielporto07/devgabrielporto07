@@ -70,9 +70,9 @@ Olá! Sou o **Gabriel Porto**, estudante de **Ciência da Computação** na UNIN
 
 <div align="center">
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=tokyonight&hide_border=true)
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devgabrielporto07&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielporto07&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
