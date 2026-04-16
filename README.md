@@ -58,11 +58,14 @@ Olá! Sou o **Gabriel Porto**, estudante de **Ciência da Computação** na UNIN
 ## 📜 Certificados
 
 > Em construção — em breve vou adicionar meus certificados aqui!
+============================================================================================================================
+> - 🏅 Imersão Dados com Python II -- Alura (2026)
+> - 🏅 Jornada Python -- Hashtag Treinamentos (2026)
+> - 🏅 Python 3 Mundo 1 -- Curso em Vídeo (2026)
+> - 🏅 Introdução ao Mercado de Desenvolvimento Java -- DIO, Globant (2026)
+> - 🏅 Imersão Front-End com IA -- Alura (2026)
+> - 🏅 Imersão Dev com Gemini -- Alura (2024)
 
-<!-- Exemplo de como adicionar depois:
-- 🏅 Nome do Certificado — Plataforma (Ano)
-- 🏅 Nome do Certificado — Plataforma (Ano)
--->
 
 ---
 
