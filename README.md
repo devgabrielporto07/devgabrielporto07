@@ -58,7 +58,7 @@ Olá! Sou o **Gabriel Porto**, estudante de **Ciência da Computação** na UNIN
 ## 📜 Certificados
 
 > Em construção — em breve vou adicionar meus certificados aqui!
-==============================================================================================================================================================================================================================
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 > - 🏅 Imersão Dados com Python II -- Alura (2026)
 > - 🏅 Jornada Python -- Hashtag Treinamentos (2026)
 > - 🏅 Python 3 Mundo 1 -- Curso em Vídeo (2026)
