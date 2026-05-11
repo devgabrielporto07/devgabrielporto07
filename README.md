@@ -103,7 +103,21 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-origina
     width="50px" 
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-                   
+
+<img align="left" 
+    alt="VScode"
+    title="VsCode" 
+    width="50px" 
+    style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+      
+<img align="left" 
+    alt="IntelliJ"
+    title="IntelliJ" 
+    width="50px" 
+    style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+              
 </div>
 
 <br/>
