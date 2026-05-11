@@ -117,6 +117,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-origi
 <div align="center">
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devgabrielporto07&theme=dark)
+![Linguagens Mais Usadas](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devgabrielporto07&theme=dark)
 
 </div>
 
