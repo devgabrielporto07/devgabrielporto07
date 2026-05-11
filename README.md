@@ -8,22 +8,15 @@
 
 </div>
 
----
-
-## 🙋‍♂️ Sobre mim
+## Sobre mim
 
 Olá! Sou o **Gabriel Porto**, estudante de **Ciência da Computação** na UNINASSAU, no 1° período. Sou apaixonado por tecnologia e estou dando os primeiros passos no mundo da programação, com foco em me tornar um desenvolvedor **Back-end**.
 
-- 🎓 Cursando **Ciência da Computação** @ UNINASSAU
-- 🐍 Aprendendo **Python** atualmente
-- ☕ **Java** é meu foco principal para o futuro
-- 🎯 Objetivo: me especializar em **Back-end Development**
-- 🌱 Sempre aprendendo algo novo
-- 💡 Aberto a colaborações e projetos iniciantes
+- Cursando **Ciência da Computação** @ UNINASSAU
+- Objetivo: me especializar em **Back-end Development**
+- Aberto a colaborações e projetos iniciantes
 
----
-
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ### Estudando atualmente:
 
@@ -37,38 +30,7 @@ Olá! Sou o **Gabriel Porto**, estudante de **Ciência da Computação** na UNIN
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 🎯 Meu Roadmap
-
-```
-✅ Lógica de Programação
-✅ Fundamentos de Python
-🔄 Python intermediário (em progresso)
-🔄 Java básico (em progresso)
-⏳ Estruturas de Dados e Algoritmos
-⏳ Banco de Dados (SQL)
-⏳ Java avançado / Spring Boot
-⏳ APIs REST
-⏳ Back-end Developer 🚀
-```
-
----
-
-## 📜 Certificados
-
-> - 🏅 Curso HTML e CSS -- Alura (2026)
-> - 🏅 Imersão Dados com Python II -- Alura (2026)
-> - 🏅 Jornada Python -- Hashtag Treinamentos (2026)
-> - 🏅 Python 3 Mundo 1 -- Curso em Vídeo (2026)
-> - 🏅 Introdução ao Mercado de Desenvolvimento Java -- DIO, Globant (2026)
-> - 🏅 Imersão Front-End com IA -- Alura (2026)
-> - 🏅 Imersão Dev com Gemini -- Alura (2024)
-
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -86,15 +48,5 @@ Olá! Sou o **Gabriel Porto**, estudante de **Ciência da Computação** na UNIN
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-porto-5092293b3/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estudosgabriel07@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-*"A jornada de mil milhas começa com um único passo."*
-
-⭐ Se você chegou até aqui, obrigado pela visita!
 
 </div>
