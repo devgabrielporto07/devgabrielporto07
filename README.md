@@ -1,130 +1,29 @@
 # Gabriel Porto
 
-**`Desenvolvedor FullStack`**
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=bd2f28&center=true&vCenter=true&width=560&lines=Desenvolvedor+FullStack;Estudante+de+Ciência+da+Computação)
+
 ## Sobre mim 👨🏻‍💻
 
-**Olá, me chamo Gabriel Porto, tenho 19 anos sou natural da Paraíba, atualmente estou cursando Ciência da Computação na Faculdade UNINASSAU de Campina Grande, iniciei no curso no dia 11/02/26 irei subir meus projetos relacionados tanto a faculdade e pessoais em breve, fortalecendo nos estudos sempre** 📚🎓
+*Olá, me chamo Gabriel Porto, tenho 19 anos sou natural da Paraíba, atualmente estou cursando Ciência da Computação na Faculdade UNINASSAU de Campina Grande, iniciei no curso no dia 11/02/26 irei subir meus projetos relacionados tanto a faculdade e pessoais em breve, fortalecendo nos estudos sempre* 📚🎓
 
 ## Linguagens & Tecnologias & Ferramentas:
 
-<div>
-<img  align="left" 
-    alt="Python"
-    title="Python" 
-    width="50px" 
-    style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="70" />
-          
- <img  align="left" 
-    alt="Java"
-    title="Java" 
-    width="50px" 
-    style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="70"/>
-
- <img  align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="50px" 
-    style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="70"/>
-  
- <img  align="left" 
-    alt="CSS"
-    title="CSS" 
-    width="50px" 
-    style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="70"/>
-            
-<img  align="left" 
-    alt="JavaScript"
-    title="JavaScript" 
-    width="50px" 
-    style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="70"/>
-
-
-<img align="left" 
-    alt="NodeJs"
-    title="NodeJs" 
-    width="50px" 
-    style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-          
-<img align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="50px" 
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-          
-
-<img align="left" 
-    alt="Docker"
-    title="Docker" 
-    width="50px" 
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-          
-          
-<img  align="left" 
-    alt="Git"
-    title="Git" 
-    width="50px" 
-    style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="100"/>
-
- <img  align="left" 
-    alt="GitHub"
-    title="GitHub" 
-    width="50px" 
-    style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="70"/> 
-
-<img align="left" 
-    alt="Trello"
-    title="Trello" 
-    width="50px" 
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg" />
-
-
-<img align="left" 
-    alt="Jira"
-    title="Jira" 
-    width="50px" 
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
-          
- 
-<img align="left" 
-    alt="Figma"
-    title="Figma" 
-    width="50px" 
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-
-<img align="left" 
-    alt="VScode"
-    title="VsCode" 
-    width="50px" 
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
-      
-<img align="left" 
-    alt="IntelliJ"
-    title="IntelliJ" 
-    width="50px" 
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-              
+<div align="center">
+  <img alt="Python" title="Python" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img alt="Java" title="Java" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img alt="HTML" title="HTML" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img alt="CSS" title="CSS" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  <img alt="JavaScript" title="JavaScript" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="NodeJs" title="NodeJs" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img alt="MySQL" title="MySQL" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img alt="Docker" title="Docker" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img alt="Git" title="Git" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+  <img alt="GitHub" title="GitHub" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+  <img alt="Trello" title="Trello" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg" />
+  <img alt="Jira" title="Jira" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
+  <img alt="Figma" title="Figma" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
 ## Estatísticas:
@@ -132,6 +31,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij
 <div align="center">
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devgabrielporto07&theme=dark)
+
 ![Linguagens Mais Usadas](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devgabrielporto07&theme=dark)
 
 </div>
