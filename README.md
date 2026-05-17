@@ -6,7 +6,7 @@
 
 ## Sobre mim 👨🏻‍💻
 
-*Olá, me chamo Gabriel Porto, tenho 19 anos sou natural da Paraíba, atualmente estou cursando Ciência da Computação na Faculdade UNINASSAU de Campina Grande, iniciei no curso no dia 11/02/26 irei subir meus projetos relacionados tanto a faculdade e pessoais em breve, fortalecendo nos estudos sempre* 📚🎓
+Olá, me chamo Gabriel Porto, tenho 19 anos sou natural da Paraíba, atualmente estou cursando Ciência da Computação na Faculdade UNINASSAU de Campina Grande, iniciei no curso no dia 11/02/26 irei subir meus projetos relacionados tanto a faculdade e pessoais em breve, fortalecendo nos estudos sempre 📚🎓
 
 ## Linguagens & Tecnologias & Ferramentas:
 
