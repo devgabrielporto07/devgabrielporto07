@@ -1,6 +1,8 @@
 # Gabriel Porto
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=bd2f28&center=true&vCenter=true&width=560&lines=Desenvolvedor+FullStack;Estudante+de+Ciência+da+Computação)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=100&color=bd2f28&center=true&vCenter=true&width=560&lines=Desenvolvedor+FullStack;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
+</p>
 
 ## Sobre mim 👨🏻‍💻
 
