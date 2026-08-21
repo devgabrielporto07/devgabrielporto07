@@ -36,6 +36,14 @@ Olá, me chamo Gabriel Porto, tenho 19 anos sou natural da Paraíba, atualmente 
 
 ![Linguagens Mais Usadas](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devgabrielporto07&theme=dark)
 
+<picture>
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devgabrielporto07/devgabrielporto07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devgabrielporto07/devgabrielporto07/output/github-contribution-grid-snake.svg">
+  <img alt="cobrinha" src="https://raw.githubusercontent.com/devgabrielporto07/devgabrielporto07/output/github-contribution-grid-snake.svg">
+  
+</picture>
+
 </div>
 
 ## Contato:
