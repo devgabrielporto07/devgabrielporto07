@@ -57,5 +57,5 @@ Meu foco é **Java e desenvolvimento Back-End**, com interesse em **Ciberseguran
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-porto-5092293b3/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estudosgabriel07@gmail.com)
-
+[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-PDF-B71C1C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/devgabrielporto07/devgabrielporto07/blob/main/resume/Gabriel_Porto_Resume.pdf)
 </div>
