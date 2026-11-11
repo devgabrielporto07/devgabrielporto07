@@ -1,29 +1,35 @@
 # Gabriel Porto
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=100&color=bd2f28&center=true&vCenter=true&width=560&lines=Desenvolvedor+FullStack;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=bd2f28&center=true&vCenter=true&width=560&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Foco+em+Java+e+Back-End;Interesse+em+Ciberseguran%C3%A7a" alt="Typing SVG" />
 </p>
 
 ## Sobre mim 👨🏻‍💻
 
-Olá, me chamo Gabriel Porto, tenho 19 anos sou natural da Paraíba, atualmente estou cursando Ciência da Computação na Faculdade UNINASSAU de Campina Grande, iniciei no curso no dia 11/02/26 irei subir meus projetos relacionados tanto a faculdade e pessoais em breve, fortalecendo nos estudos sempre 📚🎓
+Olá, me chamo Gabriel Porto, tenho 19 anos sou natural da Paraíba, atualmente estou cursando Ciência da Computação na Faculdade UNINASSAU de Campina Grande, iniciei no curso no dia 11/02/26, Aqui ficam meus projetos da faculdade e pessoais, inclusive os que ainda estão em andamento, construindo a base e fundamentos no geral. 📚🎓
 
-## Linguagens & Tecnologias & Ferramentas:
+Meu foco é **Java e desenvolvimento Back-End**, com interesse em **Cibersegurança**.
+
+## Linguagens & Tecnologias & Ferramentas já usadas:
 
 <div align="center">
-  <img alt="Python" title="Python" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img alt="Java" title="Java" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img alt="HTML" title="HTML" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-  <img alt="CSS" title="CSS" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-  <img alt="JavaScript" title="JavaScript" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="NodeJs" title="NodeJs" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img alt="MySQL" title="MySQL" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img alt="Docker" title="Docker" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-  <img alt="Git" title="Git" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-  <img alt="GitHub" title="GitHub" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-  <img alt="Trello" title="Trello" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg" />
-  <img alt="Jira" title="Jira" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
-  <img alt="Figma" title="Figma" height="50" style="margin: 10px 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+<br/>
+
+## Foco & Interesses:
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Back-End](https://img.shields.io/badge/Back--End-2E7D32?style=for-the-badge)
+![Cibersegurança](https://img.shields.io/badge/Ciberseguran%C3%A7a-1565C0?style=for-the-badge)
+
 </div>
 
 <br/>
